@@ -1,17 +1,42 @@
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width= 115>
+</p>
+
 <h1 align="center">Hi 👋, I'm Gayan Tharuka</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayan-tharuka&label=Profile%20views&color=0e75b6&style=flat" alt="gayan-tharuka" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gayan-tharuka&label=Profile%20views&color=0e75b6&style=flat" alt="gayan-tharuka" /> </p>
 
-- 🔭 I’m currently working on [Website Development](https://hotzyfoods.com)
+<table align="center">
+<tbody><tr border="none">
+<td width="50%" align="left">
+<ul dir="auto">
+<li>
+<p dir="auto">🔭 I’m currently working on <a href="https://hotzyfoods.com">Website Development</a></p>
+</li>
+<li>
+<p dir="auto">🧑‍🎓 I’m an Undergraduate at <strong>University of Kelaniya</strong></p>
+</li>
+<li>
+<p dir="auto">💬 Ask me about <strong>Python</strong></p>
+</li>
+<li>
+<p dir="auto">📫 How to reach me <strong><a href="mailto:gtharukarathnayake@gmail.com">gtharukarathnayake@gmail.com</a></strong></p>
+</li>
+<li>
+<p dir="auto">⚡ Fun fact <strong>Call me as Blacka</strong></p>
+</li>
+</ul>
+</td>
+<td width="50%" align="center">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"><img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" style="max-width: 100%;"></a>
+  </td>
+</tr>
+</tbody></table>
 
-- 🌱 I’m currently learning **Python**
-
-- 📝 I regularly write articles on [oxygenharmony.com](oxygenharmony.com)
-
-- 📫 How to reach me **gtharukarathnayake@gmail.com**
-
-- ⚡ Fun fact **Call me as Blacka**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
