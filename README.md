@@ -26,9 +26,6 @@
 <p dir="auto">📫 How to reach me <strong><a href="mailto:gtharukarathnayake@gmail.com">gtharukarathnayake@gmail.com</a></strong></p>
 </li>
 <li>
-<p dir="auto">⚡ Fun fact <strong>Call me as Blacka</strong></p>
-</li>
-<li>
 <p dir="auto">✍️ I'm usually writing on <strong><a href="https://medium.com/@gayantharuka95">Medium</a></strong></p>
 </li>
 </ul>
