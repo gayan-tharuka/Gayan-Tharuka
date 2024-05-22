@@ -20,6 +20,9 @@
 <p dir="auto">🧑‍🎓 I’m an Undergraduate at <strong>University of Kelaniya</strong></p>
 </li>
 <li>
+<p dir="auto">📋 Visit to My Portfolio in<strong><a href="https://gayantharuka.run.place/">HERE</a></strong></p>
+</li>
+<li>
 <p dir="auto">💬 Ask me about <strong>Python</strong></p>
 </li>
 <li>
